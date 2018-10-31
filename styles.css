@@ -1,0 +1,124 @@
+body {
+    background: white;
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 0.01em;
+    line-height: 1em;
+}
+#datos {
+    text-align: center;
+    line-height: 1.5em;
+}
+.sidenav {
+    height: 100%;
+    width: 190px;
+    position: fixed;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: linear-gradient(#219897 , #6fd7f1);
+}
+
+.sidenav p{
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.sidenav img {
+    margin-left:60px; 
+    
+}
+
+.content {
+    margin-left: 185px;
+    padding-left: 5px;
+    padding-top: 40px;
+    line-height: 1.5em;
+    letter-spacing: 0.01em;
+}
+
+#name {
+    font-size: 38px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    border-top: 1px solid gray;
+    padding-top: 10px;
+    text-decoration: underline;
+    background: linear-gradient(#219897 , #85cfcb);
+    padding-bottom: 15px;
+}
+
+#photo {
+    border-radius: 10%;
+    margin-left: 49px;
+    margin-top: 20px;
+    border: px solid gray;
+    width: 6em;
+}
+
+.paragraph {
+    margin-left: 5px;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.paragraph-two {
+    margin-left: 5px;
+    font-size: 20px;
+    line-height: 1em;
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
+
+.no-link {
+    text-decoration: none;
+    text-align: justify;
+    color:black   
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+.tecnologias {
+    border-top: 1px solid gray;
+    font-size: 20px;
+    text-align: center;
+}
+
+#inicio {
+    left: 200px;
+    position: relative;
+    text-align: center;
+}
+
+ul.ulportfolio li img {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+
+ul.ulportfolio li {
+    display: inline-block;
+    text-align: center;
+}
+
+.ulportfolio {
+    width: 800px;
+    margin: auto;
+}
+
+#linkedin-pic {
+    margin-left: 10px;
+}
