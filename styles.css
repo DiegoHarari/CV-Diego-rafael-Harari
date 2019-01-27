@@ -122,3 +122,7 @@ ul.ulportfolio li {
 #linkedin-pic {
     margin-left: 10px;
 }
+
+.ulportfolio a {
+    text-decoration: none;
+}
