@@ -126,3 +126,7 @@ ul.ulportfolio li {
 .ulportfolio a {
     text-decoration: none;
 }
+
+.change:hover {
+    color: blue;
+}
