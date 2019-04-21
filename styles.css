@@ -4,28 +4,30 @@ body {
     letter-spacing: 0.01em;
     line-height: 1em;
 }
+
 #datos {
     text-align: center;
     line-height: 1.5em;
 }
+
 .sidenav {
     height: 100%;
     width: 190px;
     position: fixed;
     overflow-y: auto;
     overflow-x: hidden;
-    background: linear-gradient(#219897 , #6fd7f1);
+    background: linear-gradient(#219897, #6fd7f1);
 }
 
-.sidenav p{
+.sidenav p {
     padding: 10px;
     text-decoration: none;
     display: block;
 }
 
 .sidenav img {
-    margin-left:60px; 
-    
+    margin-left: 60px;
+
 }
 
 .content {
@@ -49,7 +51,7 @@ h2 {
     border-top: 1px solid gray;
     padding-top: 10px;
     text-decoration: underline;
-    background: linear-gradient(#219897 , #85cfcb);
+    background: linear-gradient(#219897, #85cfcb);
     padding-bottom: 15px;
 }
 
@@ -70,18 +72,18 @@ h2 {
 }
 
 .paragraph-two {
-    margin-left: 5px;
+    margin-left: 1px;
     font-size: 20px;
     line-height: 1em;
     text-align: center;
     margin-bottom: 10px;
-   
+
 }
 
 .no-link {
     text-decoration: none;
     text-align: justify;
-    color:black   
+    color: black
 }
 
 .wrapper {
